@@ -16,7 +16,7 @@ I am currently an undergraduate student studying Computer Science at the Univers
 
 ## Interests & Hobbies
 
-In my research, I focus on the application of machine learning methods to robotics and surgery. Outside of academics, I enjoy playing rhythm games, watching anime, and using my programming skills for social good [Hack4Impact](https://utk.hack4impact.org/).
+In my research, I focus on the application of machine learning methods to robotics and surgery. Outside of academics, I enjoy playing rhythm games, watching anime, and using my programming skills for [social good](https://utk.hack4impact.org/).
 
 ---
 
